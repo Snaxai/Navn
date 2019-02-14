@@ -3,7 +3,8 @@ package main
 import "fmt"
 
 func main(){
-        fmt.Println("FML boys, this is shit!, Daniel, Aleksander")
+        fmt.Println("Daniel, Aleksander, Herman, Henrik, Sander G. Sander V")
+	      fmt.Println("Old Long Swine")
 
 }
 
